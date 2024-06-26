@@ -1,6 +1,6 @@
 ## About eighteen73
 
-At eighteen73, we craft unique digital experiences that drive performance and deliver impactful results. Our team of developers, along with our wider team of other industry experts, is dedicated to working closely with brands to understand their goals and create bespoke solutions.
+At eighteen73, we craft unique digital experiences that drive performance and deliver impactful results. Our team of developers, along with our wider team of other industry experts, are dedicated to working closely with brands to understand their goals and create bespoke solutions.
 
 ## Our Expertise
 
@@ -15,7 +15,7 @@ Robust, scalable, and high-performance websites and applications tailored to a b
 **Drupal**    
 Powerful content management solutions that provide flexibility, security, and scalability.
 
-Where possible we code in the open to share our internal projects to give back to the platform communities that we are a part of. Take a look around and see what you find!
+Where possible, we try to code in the open to share our internal processes and give back to the platform communities we are part of. Take a look around and see what you find!
 
 ## Open Source Highlights
 
@@ -30,4 +30,4 @@ If you would like to collaborate with us:
 - Help to resolve an open issue
 - Suggest new ideas
 
-We're always on the lookout for like minded people to join our team to. If you like what we're doing here please check [our website](https://eighteen73.co.uk/careers/) for current positions and contact details.
+We're always on the lookout for like minded people to join our team. If you like what we're doing here please check [our website](https://eighteen73.co.uk/careers/) for current positions and contact details.
