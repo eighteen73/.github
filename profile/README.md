@@ -1,10 +1,10 @@
 ## About eighteen73
 
-At eighteen73, we craft unique digital experiences that drive performance and deliver impactful results. Our team of developers, along with a wider team of industry experts, is dedicated to working closely with brands to understand their goals and create bespoke solutions.
+At eighteen73, we craft unique digital experiences that drive performance and deliver impactful results. Our team of developers, along with our wider team of other industry experts, is dedicated to working closely with brands to understand their goals and create bespoke solutions.
 
 ## Our Expertise
 
-We pride ourselves on our versatility and expertise in various platforms and technologies. Our core competencies include:
+We pride ourselves on our versatility and expertise in various platforms and technologies. Our core developer competencies include:
 
 **WordPress**    
 Custom theme and plugin development, website optimisation, and e-commerce solutions.
@@ -15,7 +15,7 @@ Robust, scalable, and high-performance websites and applications tailored to a b
 **Drupal**    
 Powerful content management solutions that provide flexibility, security, and scalability.
 
-Where possible we code in the open to share our internal projects and can give back to the platform communities that we are a part of.
+Where possible we code in the open to share our internal projects to give back to the platform communities that we are a part of. Take a look around and see what you find!
 
 ## Open Source Highlights
 
