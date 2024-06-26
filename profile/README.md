@@ -22,7 +22,7 @@ Where possible we code in the open to share our internal projects to give back t
 - [Nebula](https://github.com/eighteen73/nebula) - a modern WordPress stack
 - [Pulsar](https://github.com/eighteen73/pulsar) - a starter theme for WordPress developers
 
-## Contact Us
+## Let's Collaborate
 
 If you would like to collaborate with us:
 
