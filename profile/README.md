@@ -1,4 +1,4 @@
-## About eighteen73
+<p><a href="https://eighteen73.co.uk" target="_blank"><img src="https://raw.githubusercontent.com/eighteen73/.github/main/eighteen73-logo.png" width="200"></a></p>
 
 At eighteen73, we craft unique digital experiences that drive performance and deliver impactful results. Our team of developers, along with our wider team of other industry experts, are dedicated to working closely with brands to understand their goals and create bespoke solutions.
 
